@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AfrahSaleem
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analytics
+- 📫 Reach out to me at afrah.live105@gmail.com
